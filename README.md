@@ -14,11 +14,6 @@ Locate: "Matrix_Test\bin\Debug\Matrix_Calculator (Application)"
 File contain on Github might not contain the relative files then head to https://drive.google.com/drive/folders/1Eh8qntk-T-67MQw4X_Xc8vHDpxIJGS1j?usp=sharing.
 Please note that login to google drive using your VGU email account.
 
-## Wrong named file:
-
-Because raylib.h itself a quite complicated library so it requires a lot of knownledge in order to incorperate it into projects. The code that is currently running uses a sample made by a group of developers to help sorten the time that it would take to learn another completely language that would be needed to make the code run the way that it did.
-So the Application might have the different name under: "Matrix_Test\bin\Debug\game-premake-main (Application)
-
 # Creator's note ("rant").
 ## note:
 - I have been doing this project for over a month now, though I have learned a lot it was quite disappointing when the rate of which we were leaning code in class was much slower compare to the project, as a result the more that we learned, we know more optimized methods of handling few situition that we wished we knew sooner.
