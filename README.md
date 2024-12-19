@@ -11,7 +11,7 @@ A simple matrix calculator using Raylib.h library to help project on to a window
 ----
 ## Lost file:
 
-    File contain on Github might not contain the relative files then head to [Google Drive Link](https://drive.google.com/drive/folders/1Eh8qntk-T-67MQw4X_Xc8vHDpxIJGS1j?usp=sharing).
+    File contain on Github might not contain the relative files then head to https://drive.google.com/drive/folders/1Eh8qntk-T-67MQw4X_Xc8vHDpxIJGS1j?usp=sharing.
     Please note that login to google drive using your VGU email account.
 
 ## Wrong named file:
